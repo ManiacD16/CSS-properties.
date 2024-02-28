@@ -1,0 +1,24 @@
+.item {
+    display: inline-block;
+    border: 2px solid black;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    /* background-image: linear-gradient(to right blue white yellow); */
+    background-color: aqua;
+}
+
+
+
+.item2 {
+    position: absolute;
+    top: 30px;
+    z-index: 6;
+    background-color: aquamarine;
+}
+
+.item3 {
+    position: absolute;
+    z-index: 5;
+    background-color: yellowgreen;
+}

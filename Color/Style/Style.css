@@ -1,0 +1,23 @@
+.first {
+    color: red;
+}
+
+.second {
+    color: #adf;
+}
+
+.third {
+    color: #aafaaa;
+}
+
+.fourth {
+    color: rgb(100, 60, 250);
+}
+
+.fifth {
+    color: hsl(355, 100%, 70%);
+}
+
+.six {
+    color: rgba(150, 40, 75, 0.3);
+}

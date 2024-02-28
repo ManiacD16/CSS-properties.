@@ -1,0 +1,53 @@
+.container {
+    font-size: 100px;
+}
+
+.item1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+.item2 {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display: inline-block;
+    position: relative;
+    left: 450px;
+}
+
+.item3 {
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+    display: inline-block;
+}
+
+.container1 {
+    font-size: 100px;
+}
+
+.item4 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+.item5 {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+}
+
+.item6 {
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+    display: inline-block;
+}

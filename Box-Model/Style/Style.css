@@ -1,0 +1,54 @@
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    box-sizing: content-box;
+    border: 8px dashed rgb(200, 52, 52);
+    margin: 100px;
+}
+
+.c1 {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 8px dashed rgb(200, 52, 52);
+    padding: 50px;
+}
+
+.c2 {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    box-sizing: content-box;
+    border: 8px dashed rgb(200, 52, 52);
+    padding: 50px;
+}
+
+.c3 {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 8px dashed rgb(200, 52, 52);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.c4 {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    box-sizing: content-box;
+    border: 8px dashed rgb(200, 52, 52);
+    margin-left: 50px;
+}
+
+.c5 {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    box-sizing: content-box;
+    border: 8px dashed rgb(200, 52, 52);
+    margin: 40px 30px 50px 80px;
+}

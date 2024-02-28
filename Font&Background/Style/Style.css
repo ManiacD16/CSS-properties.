@@ -1,0 +1,84 @@
+.first {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: oblique;
+    line-height: 15px;
+
+}
+
+.second {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: italic;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    line-height: 15px;
+}
+
+.third {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    line-height: 15px;
+    background-color: rgb(159, 100, 120);
+}
+
+.fourth {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: italic;
+    background-image: radial-gradient(violet, indigo, blue, green, yellow, orange, red);
+    line-height: 15px;
+}
+
+.fifth {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: italic;
+    background-image: url(../Image/WhatsApp\ Image\ 2022-08-07\ at\ 8.56.01\ PM.jpeg);
+    background-size: contain;
+    background-repeat: repeat-x;
+    line-height: 15px;
+}
+
+.sixth {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: italic;
+    background-image: url(../Image/WhatsApp\ Image\ 2022-08-07\ at\ 8.56.01\ PM.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    line-height: 15px;
+}
+
+.seventh {
+    font-size: 16px;
+    font-family: 'Courier New';
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: italic;
+    background-image: url(../Image/WhatsApp\ Image\ 2022-08-07\ at\ 8.56.01\ PM.jpeg);
+    background-size: 100px 150px;
+    background-repeat: repeat-y;
+    line-height: 15px;
+}
+
+.eighth {
+    border: 5px solid red;
+    height: 1000px;
+    width: 1000px;
+    background-image: url(../Image/WhatsApp\ Image\ 2022-08-07\ at\ 8.56.01\ PM.jpeg);
+    background-size: 350px 500px;
+    background-repeat: no-repeat;
+    background-position: 100px 100px;
+}

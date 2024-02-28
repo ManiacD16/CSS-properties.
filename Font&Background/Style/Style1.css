@@ -1,0 +1,39 @@
+.first {
+    border: 10px dashed red;
+    height: 500px;
+    width: 380px;
+    background-image: url(../Image/WhatsApp\ Image\ 2022-08-07\ at\ 8.56.01\ PM.jpeg);
+    background-size: contain;
+    background-repeat: space;
+    background-clip: padding-box;
+    line-height: 15px;
+}
+
+.second {
+    border: 10px dashed red;
+    height: 500px;
+    width: 380px;
+    background-image: url(../Image/WhatsApp\ Image\ 2022-08-07\ at\ 8.56.01\ PM.jpeg);
+    background-size: cover;
+    background-clip: border-box;
+    line-height: 15px;
+}
+
+.third {
+    font-size: 20px;
+    width: 400px;
+    background-image: linear-gradient(to right, rgb(237, 115, 115), green, yellow);
+    background-size: cover;
+    background-clip: text;
+    line-height: 20px;
+}
+
+.fourth {
+    font-size: 20px;
+    width: 400px;
+    background-image: linear-gradient(to right, rgb(237, 115, 115), green, yellow);
+    background-size: cover;
+    -webkit-background-clip: text;
+    color: rgba(0, 0, 0, 0);
+    line-height: 20px;
+}
